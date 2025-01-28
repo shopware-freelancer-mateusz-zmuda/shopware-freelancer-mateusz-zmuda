@@ -1,3 +1,3 @@
-- 👋 Hi, I am shopware Freelancer  I’m @shopware-freelancer-mateusz-zmuda
+- 👋 Hi, I am Mateusz Zmuda - Shopware Freelancer 
 - 👀 I’m interested in Shopware 6 Projects
 - More info:  www.mzmuda.de
